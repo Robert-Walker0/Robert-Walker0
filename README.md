@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Robert-Walker0
+- 👀 I’m interested in C++, Java, Python, Monster Hunter, and Ace Attorney.
+- 🌱 I’m currently learning C++, Java, and Python (more about them than just the basics.)
+- 💞️ I’m looking to collaborate on pretty much anything that I think is approriate. 
+- 📫 How to reach me my email algorithmicrealmist@gmail.com
