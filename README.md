@@ -1,5 +1,33 @@
 # 💫 About Me:
-👋 Hi, I’m @Robert-Walker0<br>👀 I’m interested in C++, Java, Python, Monster Hunter, and Ace Attorney.<br>🌱 I’m currently learning C++, Java, and Python (more about them than just the basics.)<br>💞️ I’m looking to collaborate on pretty much anything that I think is approriate.<br>📫 How to reach me my email algorithmicrealmist@gmail.com
+👋 Hi, I’m @Robert-Walker0<br>👀 I’m interested in C++, Java, Python, Monster Hunter, Lua, and Ace Attorney.<br>
+
+I'm currently focusing my programming journey on making projects with C++, Lua, and Python.<br>
+
+I'm aiming to become build my skill with C++ and Lua to become a professional game developer or software engineer. Currently, I'm open for interships, freelance projects, and collaborations on open source tools or games.<br>
+
+You can contact me for that at:<br>
+algorithmicrealmist@gmail.com
+
+<br>
+
+# Projects
+<br>
+
+### Gradebook CLI (WIP) <br>
+A terminal-based gradebook manager written in C++ with clean object-oriented design.<br>
+- C++17, OOP, Input Validation
+- [View on GitHub](https://github.com/Robert-Walker0/Student-Gradebook)
+
+### Triangle Calculator
+A calculator that takes three sides of a triangle to determine if it is a triangle or not.
+- Lua 5.1
+- [View on GitHub](https://github.com/Robert-Walker0/Triangle-Calculator)
+
+### Portfolio
+A portfolio website showing my completed work.
+- Built using HTML and CSS
+- [View on GitHub](https://github.com/Robert-Walker0/Portfolio)
+- [View Website](https://robert-walker0.github.io/Portfolio/)
 
 
 # 💻 Tech Stack:
