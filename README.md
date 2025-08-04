@@ -13,7 +13,7 @@ algorithmicrealmist@gmail.com
 # Projects
 <br>
 
-### Gradebook CLI (WIP) <br>
+### Gradebook CLI <br>
 A terminal-based gradebook manager written in C++ with clean object-oriented design.<br>
 - C++17, OOP, Input Validation
 - [View on GitHub](https://github.com/Robert-Walker0/Student-Gradebook)
